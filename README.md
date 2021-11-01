@@ -35,4 +35,7 @@ The project could be optimized to provide a better user experience, here's tasks
 
 ### Demo
 
-<video src='https://vivienhaese.github.io/phone/demo.mov' width=180/>
+[Access to an online demonstration](https://vivienhaese.github.io/phone/) or watch the video.
+
+https://user-images.githubusercontent.com/6751231/139743279-ce763fc1-e189-4433-8b08-97378a69d5aa.mov
+
