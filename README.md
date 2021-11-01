@@ -9,11 +9,11 @@ This project is a simple Phone call web app, using React/GraphQL/Context/Typescr
 
 ### ⚒️ Configuration
 
-Clone the project and run `yarn` to install dépendancies.\
+Clone the project and run `yarn` to install dependancies.
 
 `yarn start` runs the app in the development mode at [http://localhost:3000](http://localhost:3000).\
 `yarn test` launches the test runner in the interactive watch mode.\
-`yarn build` builds the app for production to the `build` folder, but seriously, this is a test project, don't use it in a production environement.\
+`yarn build` builds the app for production to the `build` folder, but seriously, this is a test project, don't use it in a production environement.
 
 ### ⏫ To be optimized
 
