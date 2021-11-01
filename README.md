@@ -1,13 +1,13 @@
 # ☎️ Phone ☎️
 
-This project is part of the [Aircall hiring process](https://github.com/aircall/frontend-hiring-test).
-_Do not copy this project_, do your own stuffs!
+This project is part of the [Aircall hiring process](https://github.com/aircall/frontend-hiring-test).\
+_Do not copy this project_, 🤫 do your own stuffs!
 
-## Project
+## 💡 Project
 
 This project is a simple Phone call web app, using React/GraphQL/Context/Typescript stack.
 
-### Configuration
+### ⚒️ Configuration
 
 Clone the project and run `yarn` to install dépendancies.\
 
@@ -15,15 +15,15 @@ Clone the project and run `yarn` to install dépendancies.\
 `yarn test` launches the test runner in the interactive watch mode.\
 `yarn build` builds the app for production to the `build` folder, but seriously, this is a test project, don't use it in a production environement.\
 
-### To be optimized
+### ⏫ To be optimized
 
 The project could be optimized to provide a better user experience, here's tasks that could have been done with more time :
 
 - [ ] Refresh user token when token has expired
 - [ ] Intercept and handle unauthorized GraphQL calls
-- [ ] Intercept and handle unauthorized GraphQL calls
+- [ ] Use GraphQL subscriptions to handle real time changes
 
-### Dive into the code
+### 🐬 Dive into the code
 
 - `index.tsx` contains Appolo client configuration and other providers
 - `App.tsx` contains route Configuration, with protected route
