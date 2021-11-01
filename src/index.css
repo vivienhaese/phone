@@ -1,0 +1,9 @@
+.selected > .call-item {
+  transform: translateX(15px);
+  transition: transform 150ms ease;
+}
+
+:not(.selected) > .call-item:hover {
+  transform: translateX(10px);
+  transition: transform 150ms ease;
+}
