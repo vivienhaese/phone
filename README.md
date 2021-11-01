@@ -32,3 +32,7 @@ The project could be optimized to provide a better user experience, here's tasks
 - `Details.tsx` is the détail page
 - `components/*` containes component to display a phone call list or a phone call item
 - `context/*` contains Context and Reducer for authentication
+
+### Demo
+
+<video src='https://vivienhaese.github.io/phone/demo.mov' width=180/>

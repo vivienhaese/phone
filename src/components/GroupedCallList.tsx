@@ -44,7 +44,7 @@ function GroupedCallList({
     <Fragment>
       {sortedDates.map((date) => (
         <Fragment key={`datesListItem_${date}`}>
-          <Typography variant="caption" marginBottom="4px">
+          <Typography variant="caption" marginBottom="4px" marginTop="12px">
             {new Date(date).toLocaleDateString()}
           </Typography>
           <Spacer direction="vertical" space="xs">
