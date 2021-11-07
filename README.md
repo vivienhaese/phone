@@ -19,6 +19,7 @@ Clone the project and run `yarn` to install dependancies.
 
 The project could be optimized to provide a better user experience, here's tasks that could have been done with more time :
 
+- [ ] Responsive UI using tractor
 - [ ] Refresh user token when token has expired
 - [ ] Intercept and handle unauthorized GraphQL calls
 - [ ] Use GraphQL subscriptions to handle real time changes
